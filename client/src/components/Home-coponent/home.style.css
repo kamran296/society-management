@@ -1,0 +1,46 @@
+.container{
+    height: 100%;
+    width: 100%;
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.left{
+height: 400px;
+display: flex;
+align-items: center;
+width: auto;
+}
+.right{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    width: auto;
+    }
+
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+.text-box{
+    height: 400px;
+    width:400px;
+}
+.button1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(184, 12, 12);
+    color: aliceblue;
+    border-radius:14px ;
+    border-color: aliceblue;
+    margin-left: 43vw;
+}
+
+.form-control{
+    border-color: black;
+}

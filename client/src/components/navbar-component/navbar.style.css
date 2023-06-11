@@ -1,0 +1,25 @@
+#NavBar{
+    background-color: rgb(184, 12, 12);
+    font-family: 'Changa One', cursive;
+    color: white;
+}
+    
+
+
+.left-auto{
+    padding-left: 80%;
+    
+   
+    
+}
+
+.nav-link{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.nav-drop{
+    
+    color: rgb(184, 12, 12) ;
+
+}

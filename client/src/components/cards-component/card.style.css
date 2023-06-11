@@ -1,0 +1,25 @@
+.card-style{
+    height: 13rem;
+    width: 13rem;
+    background-color: rgb(184, 12, 12);
+    font-family: 'Changa One', cursive;
+    color: white;
+    font-size: 2rem;
+    border-radius: 1rem;
+    margin: 1rem;
+    text-align: center;
+    padding-top: 4%;
+    word-spacing: 5px;
+    padding-left: 4%;
+    @media only screen and (max-width: 768px) {
+        height: 10rem;
+        width: 10rem;
+    }
+}
+.admin-dashboard-link{
+    text-decoration: none;
+    font-family: 'Changa One', cursive;
+    color: white;
+    
+
+}

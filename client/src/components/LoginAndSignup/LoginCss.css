@@ -1,0 +1,19 @@
+.auth-wrapper{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+form{
+    width: 250px;
+    margin-top: 14px;
+
+}
+button{
+    background: rgb(184, 12, 12);
+    color: aliceblue;
+    border-radius:14px ;
+    border-color: aliceblue;
+}
